@@ -1,9 +1,9 @@
 ## Association Analysis
 
-# Preprocessing
+### Preprocessing
 I clean the data by dropping data with no **InvoiceNo** or **InvoiceNo begin with C** or **not located in United Kingdom** or **the item is POSTAGE**
 
-# Implementation
+### Implementation
 pseudocode
 > 	for each case X ⇒ Y:
 > 		support = P(X & Y)
